@@ -313,7 +313,7 @@ inspect `ext.prebid.modules` in the response.
 
 ## Support
 
-<prebid@zerogpu.ai>
+For questions, bug reports, or help with the module, email [prebid@zerogpu.ai](mailto:prebid@zerogpu.ai).
 
 ## Further Reading
 
